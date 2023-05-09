@@ -1,0 +1,98 @@
+*{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+body {
+    background-color: lightcyan;
+    padding: 0px;
+    margin: 0px;
+}
+
+header {
+    /*margin: -10px -10px;*/
+    background-color: teal;
+    display: flex;
+    justify-content: space-between;
+}
+
+h1, li{
+    display: inline;
+}
+
+h1 {
+    margin-left: 20px;
+}
+
+li {
+    font-size: 1.25em;
+    margin-left: 10px;
+}
+
+a:link {
+    color: indigo;
+}
+
+a:visited {
+    color: rgb(24, 95, 55);
+}
+
+a:hover {
+    color: magenta;
+}
+
+a:active{
+    color: darkmagenta;
+}
+
+ul {
+    width: fit-content;
+    padding-top: 10px;
+    margin-right: 20px;
+}
+
+img {
+    width: 100%;
+    /*margin: 10px -10px*/
+}
+
+h2 + p {
+    display: inline;
+}
+
+section {
+    display: flex;
+    align-items: start;
+    justify-content: center;
+}
+
+h2 {
+    font-size: 2em;
+    margin-left: 30px;
+}
+
+p, .contact {
+    font-size: 1.5em;
+    margin: 30px 30px 30px 10px;
+    border-left: 2px solid darkblue;
+    padding-left: 20px;
+}
+
+.allProjects {
+    border-left: 2px solid darkblue;
+    padding-left: 50px;
+    width: 90%;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.project {
+    border: 3px solid springgreen;
+    width: 40%;
+    height: 300px;
+    margin: 20px;
+}
+
+#project1 {
+    width: 90%;
+    height: 500px;
+}
