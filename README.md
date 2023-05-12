@@ -7,3 +7,4 @@ A portfolio website to display projects I've worked on and my contact informatio
 ![image](https://github.com/lucschwalm/Portfolio/assets/130501111/db235644-3720-4286-a7c1-5f2eff2b5cec)
 
 #Link to site
+https://lucschwalm.github.io/Portfolio/
