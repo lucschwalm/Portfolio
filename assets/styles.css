@@ -37,11 +37,11 @@ a:visited {
 }
 
 a:hover {
-    color: magenta;
+    color: blue;
 }
 
 a:active{
-    color: darkmagenta;
+    color: darkblue;
 }
 
 #topImage {
@@ -92,7 +92,7 @@ h2 {
 }
 
 .imgLink {
-    border: 3px solid springgreen;
+    border: 3px solid navy;
     width: 44%;
     height: 300px;
     margin: 1%;
